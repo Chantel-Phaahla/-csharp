@@ -1,0 +1,29 @@
+C:\Users\ntsak\OneDrive\Documentos\Crochet_AI\281Project\bin\Debug\281Project.exe.config
+C:\Users\ntsak\OneDrive\Documentos\Crochet_AI\281Project\bin\Debug\281Project.exe
+C:\Users\ntsak\OneDrive\Documentos\Crochet_AI\281Project\bin\Debug\281Project.pdb
+C:\Users\ntsak\OneDrive\Documentos\Crochet_AI\281Project\obj\Debug\SportsEventScheduling.csproj.AssemblyReference.cache
+C:\Users\ntsak\OneDrive\Documentos\Crochet_AI\281Project\obj\Debug\SportsEventScheduling.csproj.CoreCompileInputs.cache
+C:\Users\ntsak\OneDrive\Documentos\Crochet_AI\281Project\obj\Debug\281Project.exe
+C:\Users\ntsak\OneDrive\Documentos\Crochet_AI\281Project\obj\Debug\281Project.pdb
+C:\Users\unath\Downloads\281Project\281Project\bin\Debug\281Project.exe.config
+C:\Users\unath\Downloads\281Project\281Project\bin\Debug\281Project.exe
+C:\Users\unath\Downloads\281Project\281Project\bin\Debug\281Project.pdb
+C:\Users\unath\Downloads\281Project\281Project\obj\Debug\SportsEventScheduling.csproj.AssemblyReference.cache
+C:\Users\unath\Downloads\281Project\281Project\obj\Debug\SportsEventScheduling.csproj.CoreCompileInputs.cache
+C:\Users\unath\Downloads\281Project\281Project\obj\Debug\281Project.exe
+C:\Users\unath\Downloads\281Project\281Project\obj\Debug\281Project.pdb
+C:\Users\ntsak\Downloads\281Project (Updated)\281Project\281Project\obj\Debug\SportsEventScheduling.csproj.AssemblyReference.cache
+C:\Users\ntsak\Downloads\281Project (Updated)\281Project\281Project\obj\Debug\SportsEventScheduling.csproj.CoreCompileInputs.cache
+C:\Users\ntsak\Downloads\281Project (Updated)\281Project\281Project\obj\Debug\281Project.exe
+C:\Users\ntsak\Downloads\281Project (Updated)\281Project\281Project\obj\Debug\281Project.pdb
+C:\Users\ntsak\Downloads\281Project (Updated)\281Project\281Project\bin\Debug\281Project.exe.config
+C:\Users\ntsak\Downloads\281Project (Updated)\281Project\281Project\bin\Debug\281Project.exe
+C:\Users\ntsak\Downloads\281Project (Updated)\281Project\281Project\bin\Debug\281Project.pdb
+C:\Users\chant\Downloads\281Project\bin\Debug\281Project.exe.config
+C:\Users\chant\Downloads\281Project\bin\Debug\281Project.exe
+C:\Users\chant\Downloads\281Project\bin\Debug\281Project.pdb
+C:\Users\chant\Downloads\281Project\obj\Debug\SportsEventScheduling.csproj.AssemblyReference.cache
+C:\Users\chant\Downloads\281Project\obj\Debug\281Project.exe.config
+C:\Users\chant\Downloads\281Project\obj\Debug\SportsEventScheduling.csproj.CoreCompileInputs.cache
+C:\Users\chant\Downloads\281Project\obj\Debug\281Project.exe
+C:\Users\chant\Downloads\281Project\obj\Debug\281Project.pdb
